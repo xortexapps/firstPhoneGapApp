@@ -3,10 +3,10 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.xortexebusinessgmbh.jquerymobiletest"
         version   = "1.0.0">
-    <name>jQueryMobile Test</name>
+    <name>first PhoneGap App</name>
 
     <description>
-        Testing jQueryMobile
+        Testing PhoneGap
     </description>
 
     <author href="http://www.xortex.at" email="apps@xortex.com">
